@@ -1,0 +1,6 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" class="page"
+  xmlns:Bar="nativescript-linearprogressbar">
+  <StackLayout>
+    <Bar:Linearprogressbar barColor="#FF0000" indeterminate="true" />
+  </StackLayout>
+</Page>
