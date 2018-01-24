@@ -1,1 +1,1 @@
-pod 'LinearProgressBarMaterial'
+pod 'LinearProgressBarMaterial', :git => 'https://github.com/alexma01/LinearProgressBar' 
